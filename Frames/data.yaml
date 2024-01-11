@@ -1,0 +1,5 @@
+train: C:/Users/Alexkoh/Desktop/Footfallcam/Frames/Train
+val: C:/Users/Alexkoh/Desktop/Footfallcam/Frames/Val
+
+nc: 1  # number of classes
+names: ['Tag']

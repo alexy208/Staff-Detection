@@ -1,0 +1,15 @@
+artifact_uri: runs\mlflow/1/1a0a620314444a268335075811f44cfe/artifacts
+end_time: 1704449951172
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a0a620314444a268335075811f44cfe
+run_name: train2
+run_uuid: 1a0a620314444a268335075811f44cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449894757
+status: 3
+tags: []
+user_id: Alexkoh
